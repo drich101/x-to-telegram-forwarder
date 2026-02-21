@@ -1,0 +1,8 @@
+# Core dependencies for Tweet Forwarder Bot
+
+python-telegram-bot==20.6
+requests==2.31.0
+python-dotenv==1.0.0
+
+# Optional (for future Web3 features)
+web3==6.4.0
