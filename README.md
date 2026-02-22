@@ -31,6 +31,6 @@ Launching soon. 🔵
 
 ## 📚 Documentation Links
 
-- [Feature 1](docs/feature1.md)  
-- [Feature 30](docs/feature30.md)  
-- [Final QA & Optimizations](docs/feature51.md)  
+[Feature 1](./docs/feature1.md)
+[Feature 30](./docs/feature30.md)
+[Final QA & Optimizations](./docs/feature51.md)
